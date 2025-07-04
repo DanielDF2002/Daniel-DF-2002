@@ -11,5 +11,4 @@ Desarrollador FullStack 🌱
 📍 España
 ### Tecnologías:
 - HTML / CSS / JS
-- React / Vue
-- Python / Django
+
