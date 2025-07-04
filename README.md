@@ -5,7 +5,7 @@ Mis proyectos destacados son un archivo HTML y CSS con cards mia y tres de mis c
 Podeis contactarme a traves de mi correo electronico (danieldominguezfarpon@gmail.com)
 ahora estoy aprendiendo a usar HTML y CSS con mkas profesionalidad
 
-**Hola, soy Daniel** 👋
+**Hola, soy Daniel** 👋 😄
 Desarrollador FullStack 🌱
 
 📍 España
