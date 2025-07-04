@@ -12,3 +12,4 @@ Desarrollador FullStack 🌱
 ### Tecnologías:
 - HTML / CSS / JS
 
+<h2>Hola que tal</h2>
