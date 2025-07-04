@@ -4,3 +4,12 @@ Las tecnologia que manejo es HTML, CSS y Fitma.
 Mis proyectos destacados son un archivo HTML y CSS con cards mia y tres de mis compañeros, un formulario de magia como estilo.
 Podeis contactarme a traves de mi correo electronico (danieldominguezfarpon@gmail.com)
 ahora estoy aprendiendo a usar HTML y CSS con mkas profesionalidad
+
+**Hola, soy Daniel** 👋
+Desarrollador FullStack 🌱
+
+📍 España
+### Tecnologías:
+- HTML / CSS / JS
+- React / Vue
+- Python / Django
